@@ -46,4 +46,4 @@ Based on the three questions, we arrived to the following conclusions:
 ## **File Descriptions**
 
 - EDA.ipynb notebook contains a complete analysis to answer the questions and clearly explains them with visualizations.
-- HR-Employee-Attrition.csv file located in dataset/ folder is the original dataset in csv format
+- Stack Overflow Developer Survey 2017.zip file  is the zip file contain original dataset in csv format

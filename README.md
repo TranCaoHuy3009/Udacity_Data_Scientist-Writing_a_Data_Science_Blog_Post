@@ -34,7 +34,7 @@ Based on the three questions, we arrived to the following conclusions:
 - Which location between North America and Europe have the higher ratio of salary growth? 
 ==> Both adhere to the same fashion
 
-– Which location between North America and Europe have the higher job satisfaction? 
+- Which location between North America and Europe have the higher job satisfaction? 
 ==> Overall, we can see that the change in job satisfaction over time is quite similar, but the job satisfaction level is higher in North America than in Europe. And in both regions, there seems to be a trend towards increased job satisfaction with those who spend more time in programming jobs.
 
 Due to listed question above, we come to conclusion that North America is the better place for Software Engineer to settle down. For further information, please visit my article at: https://medium.com/@trancaohuy3009/is-north-america-a-better-immigration-option-for-software-engineers-than-europe-b6aaf056339a
